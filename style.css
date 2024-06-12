@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+
+div{
+    display: block;
+    height: 400px;
+    width: 400px;
+    background-color: azure;
+    border: 2px solid brown;
+    margin: auto;
+    align-content: center;
+    /* justify-content: center; */
+}
+
+/* .items{
+    width: 100%;
+    margin: 0 auto;
+} */
+
+/* h1{
+    margin: 30px;
+} */
+
+.choice-btn{
+    height: 100px;
+    width: 100px;
+    border: none;
+    margin: 10px;
+    background-color: rgb(245, 211, 198);
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.choice-img{
+    height: 75px;
+}
+
+.reset{
+    background-color: aquamarine;
+    padding: 10px 15px;
+    cursor: pointer;
+}
